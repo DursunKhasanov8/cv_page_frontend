@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+}
+
+.main {
+  border: 2px solid rgb(220, 220, 220);
+}
+
+.separator {
+  width: 50%;
+  color: aqua;
+  border: 2px solid rgb(0, 163, 152);
+}
+
+.ol {
+  list-style: none;
+}
+
+.ed {
+  margin-left: 5px;
+}
+
+.ed_table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.ed_table th,
+td {
+  border: 2px solid black;
+  padding-right: 59vh;
+  padding-bottom: 20px;
+}
+
+.form {
+  width: 70vh;
+  margin-left: 65vh;
+}
+
+.label-name {
+  margin-bottom: 3px;
+}
+
+.name {
+  margin-bottom: 8px;
+}
+
+.input-text {
+  width: 380px;
+}
+
+.email {
+  margin-left: 28px;
+}
+
+.comment {
+  margin-top: 18px;
+  margin-bottom: 0px;
+}
+
+.h2 {
+  color: rgb(0, 180, 180);
+}
