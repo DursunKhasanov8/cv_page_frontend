@@ -1,5 +1,7 @@
-# This is my first header
+# Header 1
 
-## And this is my two header
+```
+This is text
+```
 
-![image](icons/avatar.jpg)
+![image](icons/placeholder.png)
